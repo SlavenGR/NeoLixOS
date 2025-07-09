@@ -13,3 +13,15 @@
 - 🔍 | Firefox — Install only what you need.
 
 ## License
+The user, is allowed to;
+- ✅ | Use the software for any purpose.
+- ✅ | Study how it works, and modify it.
+- ✅ | Share copies of the modified software with others.
+
+  ***HOWEVER***
+
+The user is prohibited from;
+  - ❌ | Make their own version propietary.
+  - ❌ | Restricting other users from doing the same thing.
+
+For more infomation, [please click this](https://github.com/SlavenGR/NeoLixOS/?tab=GPL-3.0-1-ov-file).
