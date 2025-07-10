@@ -19,14 +19,14 @@
 
 
 ## License
-The user, is allowed to;
+ The user, is allowed to;
 - ✅ | Use the software for any purpose.
 - ✅ | Study how it works, and modify it.
 - ✅ | Share copies of the modified software with others.
 
-  ***HOWEVER***
+ **HOWEVER**
 
-The user is prohibited from;
+ The user is prohibited from;
   - ❌ | Make their own version propietary.
   - ❌ | Restricting other users from doing the same thing.
 
