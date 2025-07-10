@@ -27,7 +27,7 @@
  **HOWEVER**
 
  The user is prohibited from;
-  - ❌ | Make their own version propietary.
+  - ❌ | Making their own version propietary.
   - ❌ | Restricting other users from doing the same thing.
 
 For more infomation, please [click this](https://github.com/SlavenGR/NeoLixOS/?tab=GPL-3.0-1-ov-file).
